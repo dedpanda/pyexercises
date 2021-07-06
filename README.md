@@ -1,2 +1,1 @@
-# pyexercises
-exercises on python3
+# pyexercises: exercises on python3
